@@ -2,6 +2,8 @@
 #api keys
 .env
 
+#firebase
+.firebase
 
 # dependencies
 /node_modules
